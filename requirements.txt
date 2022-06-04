@@ -1,0 +1,8 @@
+#modules needed
+requests
+shodan
+whois
+sys
+argparse
+socket
+dnspython
